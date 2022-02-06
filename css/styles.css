@@ -11400,6 +11400,10 @@ html {
 }
 
 .home {
+  background-image: linear-gradient(rgba(0,0,0,0.8),#44546e), url(/assets/img/portfolio/SE-3.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
 }
