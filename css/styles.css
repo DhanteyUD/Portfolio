@@ -3407,6 +3407,8 @@ textarea.form-control-lg {
 }
 .btn-outline-light:hover {
   color: #000;
+  transform: translateY(-7px);
+  transition: transform 0.8s;
   background-color: #f8f9fa;
   border-color: #f8f9fa;
 }
