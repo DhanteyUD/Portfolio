@@ -3648,11 +3648,12 @@ fieldset:disabled .btn {
 .btn-outline-light {
   color: #f8f9fa;
   border-color: #f8f9fa;
+  transition: 0.5s;
 }
 .btn-outline-light:hover {
   color: #000;
   transform: translateY(-7px);
-  transition: transform 0.8s;
+  transition: 0.5s;
   background-color: #f8f9fa;
   border-color: #f8f9fa;
 }
