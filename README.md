@@ -4,4 +4,4 @@ Personal Portfolio Webpage
 
 Contains some information about me
 
-![Clinton Otse Portfolio Web Page](/View.png)
+![Clinton Otse Portfolio Web Page](./view.png)
