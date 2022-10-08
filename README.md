@@ -1,7 +1,5 @@
 # Portfolio
 
-Personal Portfolio Webpage
-
-Contains some information about me
+Personal Portfolio
 
 ![Clinton Otse Portfolio Web Page](./view.png)
