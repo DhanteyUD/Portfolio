@@ -4,6 +4,6 @@ My Personal Portfolio
 
 ![Clinton Otse Portfolio Web Page](./view.png)
 
-> Currently not maintained.
+> Currently not maintained..
 
 © Clinton Otse
